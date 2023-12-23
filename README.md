@@ -5,8 +5,6 @@ This is the first of two phases for a project focused on gesture recognition rel
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 In this project, we are confronted with the challenge of developing a system capable of recognizing skin areas in images that represent hand gestures. The ultimate goal is to count the number of fingers shown in these images, enabling the recognition of numbers 0 to 5 in sign language. To address this problem, we have a dataset divided into two main subsets: the training dataset and the validation dataset.
 
 Each of these subsets is organized into two subfolders. The first subfolder contains images used to train our system, depicting hand gestures, sometimes showing parts of the arm or, on occasion, other body parts such as the neck. On the other hand, the second subfolder of the set contains ideal masks indicating the skin areas in the images.
